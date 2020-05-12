@@ -14,4 +14,4 @@ async def on_message(message):
     if message.content.startswith('!hello'):
         await message.channel.send('FROM YNOKIM 2020.05.12 TUESDAY')
 
-client.run('NTQ5MjIzNjI3Njc0MDkxNTQx.XrrPsw.waVFdtU1VcSlF229K6XPp5sSpSg')
+client.run('token here')
